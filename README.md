@@ -5,3 +5,4 @@ WSL is pain [notes for dev: Hina]
 - `uv pip install pyxel`
 - `sudo apt install libsdl2-dev` ?
 - `uv run pyxel run main.py`
+- SIKE you can actually just install the vscode extension uhm.
